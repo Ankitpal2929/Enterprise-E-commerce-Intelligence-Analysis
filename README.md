@@ -11,16 +11,20 @@ Project highlights
 •	Avg lifetime value: 10017.47
 •	Churn rate: 21.6
 •	Date range: 2018-01-01 to 2023-06-24
+
 Key findings
 •	The customer base is broad and fairly balanced across genders, with Male customers at 8,411, Other at 8,346, and Female at 8,243.
 •	France, Brazil, USA, India, and Canada are the largest markets by customer count, each contributing roughly three thousand customers or more.
 •	Average lifetime value is highest in the most active customer segments, while the overall churn rate is 21.6%, which highlights an opportunity for retention focus.
 •	The age distribution suggests a strong mix of Young Adult, Adult, Mid-Career, and Senior segments, making segmentation and tailored messaging valuable.
+
+
 Recommended business actions
 1.	Prioritize retention campaigns for customer groups with above-average churn.
 2.	Use country-level summaries to tailor regional marketing, pricing, and loyalty strategy.
 3.	Build segment-specific messaging around age bands and customer value tiers.
 4.	Track monthly customer trends and lifetime value as ongoing KPIs for leadership reviews.
+
 Deliverables completed
 •	Cleaned summary workbook with dedicated summary sheets and charts.
 •	Client-ready presentation narrative in this document.
